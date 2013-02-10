@@ -2,7 +2,9 @@ Radiant MD5 Extension
 =====================
 
 [![Build Status](https://travis-ci.org/sealink/radiant-md5_asset-extension.png?branch=master)](https://travis-ci.org/sealink/radiant-md5_asset-extension)
-
+[![Build Status](https://gemnasium.com/sealink/radiant-md5_asset-extension.png?travis)](https://gemnasium.com/sealink/radiant-md5_asset-extension)
+[![Build Status](https://codeclimate.com/github/sealink/radiant-md5_asset-extension.png)](https://codeclimate.com/github/sealink/radiant-md5_asset-extension)
+ 
 # DESCRIPTION
 
 Provides 2 tags to enable your static javascript/css assets to have a md5 argument on the end for use in caching
